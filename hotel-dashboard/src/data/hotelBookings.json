@@ -1,0 +1,29 @@
+[
+  {
+    "arrival_date_year": 2022,
+    "arrival_date_month": 6,
+    "arrival_date_day_of_month": 15,
+    "adults": 2,
+    "children": 1,
+    "babies": 0,
+    "country": "USA"
+  },
+  {
+    "arrival_date_year": 2022,
+    "arrival_date_month": 6,
+    "arrival_date_day_of_month": 16,
+    "adults": 1,
+    "children": 0,
+    "babies": 0,
+    "country": "UK"
+  },
+  {
+    "arrival_date_year": 2022,
+    "arrival_date_month": 6,
+    "arrival_date_day_of_month": 17,
+    "adults": 3,
+    "children": 2,
+    "babies": 1,
+    "country": "France"
+  }
+]
